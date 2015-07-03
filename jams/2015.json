@@ -390,6 +390,15 @@
                 "story"
             ]
         },
+    {
+      "name": "Hits PlayJam",
+      "url": "http://jamshaker.com/hitsPlayJam/",
+      "start_date": "2015-07-10",
+      "end_date": "2015-07-12",
+      "description": "This is an online live french jam. People have 48 hours to create a game on the platform of their choice.Jammers must use three constraints : two chosen by web users and another one chosen by the teams themselves."
+    }
+  ]
+}
         {
             "name": "BITBITJam",
             "start_date": "2015-07-24 17:00:00 +0100",
